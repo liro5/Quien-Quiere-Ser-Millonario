@@ -54,6 +54,7 @@ const preguntas = [
         ]
     }
 ];
+//Esto es una prueba
 let listaPreguntasOk = [];
 let idPregunta = darIdPregunta();
 let puntaje = 0;
